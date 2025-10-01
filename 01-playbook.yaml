@@ -1,5 +1,5 @@
-- name: "verify host connectivity"
-  host: test
+- name: ping
+  host: frontend
   tasks: 
     - name: ping
       ansible.builtin.ping:
