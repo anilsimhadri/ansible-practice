@@ -3,10 +3,10 @@
   tasks:
   - name: "directory:"
     ansible.builtin.file:
-    path: /home/ec2-user/ansible
-    state: directory
+      path: /home/ec2-user/ansible
+      state: directory
 
   - name: "create file"
     ansible.builtin.file:
-    path: /home/ec2-user/ansible.txt
-    state: touch  
+      path: /home/ec2-user/ansible.txt
+      state: touch  
