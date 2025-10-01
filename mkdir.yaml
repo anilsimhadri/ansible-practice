@@ -1,5 +1,5 @@
 - name: "create a director:"
-  hosts: node
+  hosts: test
   tasks:
   - name: "directory:"
     ansible.builtin.file:
