@@ -1,0 +1,38 @@
+<student1>
+    <name>Anil</name>
+    <dob>09-07</dob>
+    <age>39</age>
+    <adresses>
+        <address type="perm">
+            <line1>srive sikahar</line1>
+            <street>pridepark</street>
+            <city>hyd</city>
+        </address>
+        <address type="current">
+            <line1>daba garden</line1>
+            <street>kavya avenue</street>
+            <city>hyd</city>
+        </address>
+    </adresses>
+</student1>
+<student2>
+    <name>ashu</name>
+    <dob>07-01</dob>
+    <age>37</age>
+    <addresses>
+        <address type="perm">
+            <line>1234</line>
+            <city>medak</city>
+            <pin>500047</pin>
+        </address>
+        <address type="current">
+            <line>main</line>
+            <city>hyd</city>
+        </address>
+    </addresses>
+</student2>
+
+
+
+    
+    

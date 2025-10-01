@@ -1,0 +1,34 @@
+- name: "anil kumar"
+  age: 39
+  dob: 09-07-1986
+  addresses:
+  - doorNo: 1862
+    street: "gandhi nagar"
+    city: hyderabad
+    pin: 502032
+    type: perm
+
+  - doorNo: 5588
+    street: amma
+    city: medak
+    pin: 500047
+    type: current
+
+  skills:
+  - java
+  - devops    
+
+- name: karthi
+  age: 11
+  dob: 22-09-2014
+  addresses:
+  - doorNo: 1866
+    street: hanuman
+    city: bza
+    pin: 502032
+    type: current
+
+  skills:
+  - aws
+  - azure     
+ 

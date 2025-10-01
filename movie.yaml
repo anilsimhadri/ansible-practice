@@ -1,0 +1,30 @@
+- name: f1
+  year: 2025
+  director: "anil  kumar"
+  budget: 50000000
+  result: hit
+  actors:
+  - name: sonny
+    age: 55
+    country: usa
+    role: hero
+
+  - name: amala
+    age: 45
+    country: uae
+    role: driver
+
+  Support staff:
+  - name: amit
+    age: 44
+    country: canada
+    role: boy
+
+  - name: chikki
+    age: 22
+    country: india
+    role: dancer
+
+  genres:
+  - action
+  - drama
