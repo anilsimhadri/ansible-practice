@@ -1,0 +1,10 @@
+- name: "create a director:"
+  hosts: node
+  tasks:
+  - name: "create a directory:"
+    ansible.builtin.file:
+    state: directory
+
+  - name: "create file"
+    ansible.builtin.file:
+    state: touch  
