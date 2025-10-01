@@ -1,7 +1,7 @@
 - name: "create a director:"
   hosts: node
   tasks:
-  - name: "create a directory:"
+  - name: "directory:"
     ansible.builtin.file:
     path: /home/ec2-user/ansible
     state: directory
